@@ -1,0 +1,2 @@
+# SigmaSquare
+DII Challenge - SigmaSquare
